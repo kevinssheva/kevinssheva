@@ -1,16 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning Full Stack Web Development, Data Science<br>💬 Ask me about frontend things
 
+# Hey, I'm Kevin! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevin.sst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinsebastianst) 
+I'm a software engineer at Gojek. I enjoy building things and figuring out how they work under the hood.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kevinssheva&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevinssheva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinssheva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Lately, I've been spending more time learning the fundamentals. Partly out of curiosity, partly so I can tell when AI is confidently making things up. 😄
 
----
-[![](https://visitcount.itsvg.in/api?id=kevinssheva&icon=0&color=1)](https://visitcount.itsvg.in)
+Outside of tech, I've also been getting into economics.
+
+### What I'm up to
+
+- Exploring the fundamentals behind the systems we use every day.
+- Tinkering with side projects and learning more about open source.
+- Mostly working with Go, and occasionally building things with TypeScript.
+
+### GitHub activity
+
+![GitHub Stats](https://ghstats.dev/api/card?username=kevinssheva&theme=default&size=compact)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinssheva&theme=github-compact&hide_border=true)
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/kevinsebastianst/)
+
+<!-- Add your portfolio URL here after it is deployed. -->
